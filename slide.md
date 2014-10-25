@@ -813,11 +813,11 @@ function parse\_git\_branch {<br />
 
 ### Checkout to previous version
 
-* `git checkout <reversion>`
+* `git checkout <revision>`
 
 ### Checkout file from previous version
 
-* `git checkout <reversion> <file>`
+* `git checkout <revision> <file>`
 
 --
 
@@ -833,9 +833,9 @@ function parse\_git\_branch {<br />
 
 ### Reset to previous version
 
-* `git reset <reversion>`
+* `git reset <revision>`
 
-* `git reset --hard <reversion>`
+* `git reset --hard <revision>`
 
 --
 
